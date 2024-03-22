@@ -1,2 +1,5 @@
 # DS-FT-PHASE1-MICROSOFT-MOVIE
-This project uses exploratory data analysis to generate insights for a business stakeholder.
+Unveiling Success: A Data-Driven Approach to Microsoft's Cinematic Ventures
+
+Project Goal
+The goal of this project is to conduct exploratory data analysis aimed at extracting valuable insights for Microsoft's venture into establishing a new movie studio. By leveraging data sourced from IMDB and Box Office Mojo, the project endeavors to identify the most successful movie genres based on two key determinants: revenue generation and audience reception. Through comprehensive analysis, it aims to discern which genres exhibit the highest profitability and garner the most favorable audience feedback. Preliminary findings suggest that genres such as Sci-Fi, adventure, animation, and action emerge as lucrative options for Microsoft to prioritize, given their propensity for generating substantial revenue. By focusing on these genres, Microsoft can strategically position itself in the competitive landscape of the film industry, maximizing its chances of success in its cinematic endeavors.
